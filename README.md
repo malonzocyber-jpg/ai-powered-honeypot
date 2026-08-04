@@ -1,5 +1,12 @@
 # AI-Powered Honeypot with Beelzebub & Ollama
 
+## Full Project Write-Up
+
+For a detailed walkthrough of the deployment, configuration, testing, and results, see my published cybersecurity article:
+
+[Deceiving the Attacker: Building an AI-Powered Honeypot with Beelzebub](https://0x2asecurity.com/siem-engineering/2026/deceiving-the-attacker-building-an-ai-powered-honeypot-with-beelzebub/)
+
+
 ## Overview
 
 This project demonstrates the deployment and testing of an AI-powered honeypot using Beelzebub, Docker, and Ollama. The honeypot was configured to simulate vulnerable network services, capture attacker interactions, and use a local AI model to generate dynamic responses.
